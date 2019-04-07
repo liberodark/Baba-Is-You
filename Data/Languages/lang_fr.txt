@@ -23,7 +23,7 @@ settings_language=configuration de la langue
 lang_setup=choisissez la langue que vous souhaitez utiliser
 settings_fullscreen=bascule en plein ecran
 settings_grid=activer la grille
-settings_wobble=desactiver leffet de vobulation
+settings_wobble=desactiver l'effet de vobulation
 settings_palette=force les couleurs par defaut
 settings_restart=ne pas demander au redemarrage
 settings_zoom=mode zoom
@@ -61,7 +61,7 @@ no=non
 yes=oui
 cancel=annuler
 
-slot=$s
+slot=sauvegarde
 slots_select=selectionnez l'emplacement de sauvegarde
 slots_erase=effacer la sauvegarde
 erase_select=selectionnez l'emplacement de sauvegarde a effacer
@@ -71,8 +71,8 @@ intro_confirm=voulez-vous regarder l'intro?
 
 ending=merci d'avoir joue!
 
-rules=$s
-level=$s
+rules=regles
+level=niveau
 
 credits_designetc=design, code etc
 credits_audio=music & sfx
