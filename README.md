@@ -7,7 +7,7 @@
 
 # Chronicon
 
-Community Translate : <a href=""> Link </a>
+Community Translate : <a href="https://steamcommunity.com/app/736260/discussions/0/1812044473324465589/"> Link </a>
 
 - liberodark : <a href="https://steamcommunity.com/app/736260/discussions/0//"> French </a>
 - Waiting for : <a href=""> Russian </a>
