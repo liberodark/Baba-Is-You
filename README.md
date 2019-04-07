@@ -1,6 +1,3 @@
-# Baba-Is-You
-Community translate for https://store.steampowered.com/app/736260/
-
 <p align="center">
     <img src="http://cdn.edgecast.steamstatic.com/steam/apps/736260/header.jpg?t=1513619827">    
 </p>
